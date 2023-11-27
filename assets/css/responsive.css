@@ -1,0 +1,787 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.job_select a{
+margin-left: 25px;
+}
+.hero_side_bg #img1{
+    width: 81%;
+}
+.hero_side_bg{
+    width: 84%;
+    left: -14%;
+    top: 25rem;
+}
+.bg_color:before{
+    width: 100%;
+}
+.jobs.bg_color::before{
+    top: 46%;
+}
+section.jobs{
+    margin-top: -19rem;
+}
+.text_slider{
+    margin-left: 33px;
+}
+.resume_right img{
+    width: 104%;
+    margin-left: 2px;
+}
+.Resume{
+    width: 95%;
+}
+.resume_left{
+    width: 40%;
+    margin-right: 50px;
+}
+footer{
+    margin-bottom: 50px;
+}
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+#mein_menu ul li a{font-size: 13px;}
+.hero_left{
+    margin-top: 180px;
+}
+.reg_btn a{
+    font-size: 13px;
+    padding: 10px 22px;
+}
+.job_select a{margin-left: 15px;font-size: 13px;}
+.hero_side_bg{
+    width: 88%;
+    left: -48%;
+    top: 360px;
+}
+.hero_side_bg #img1{width: 85%;top: -12rem;}
+.bg_color:before{
+    width: 100%;
+}
+.jobs.bg_color::before{
+    top: 47%;
+}
+section.jobs{
+    margin-top: -36rem;
+}
+.text_slider{
+    width: 93%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.resume_right img{
+    width: 93%;
+}
+.hero_left h1{
+    font-size: 40px;
+    line-height: 1.3;
+    margin-bottom: 30px;
+    width: 430px;
+}   
+
+.job_finding{
+    height: 60px;
+    margin-bottom: 30px;
+}
+.job_finding input{
+}        
+.job_finding input::placeholder{font-size: 13px;}        
+.hero_left p{
+    width: 400px;
+    font-size: 12px;
+    line-height: 1.6;
+}
+.job_title h3{
+    font-size: 23px;
+}
+.singel_text a{
+    font-size: 14px;
+}
+.text_slider .owl-nav button.owl-prev{}
+
+.text_slider .owl-nav button.owl-next{
+    right: -27px;
+}
+.salaris{
+    padding: 25px;
+}
+.rt{
+    width: 30px;
+    height: 30px;
+}
+.rt span{
+    font-size: 12px;
+    line-height: 30px;
+}
+.j_box a{
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.j_box a:before{
+    width: 40px;
+    height: 40px;
+    left: 10px;
+}
+.j_box a img{
+    width: 20px;
+    margin-right: 20px;
+}
+.j_box p{
+    font-size: 10px;
+}
+.salaris img{
+    margin-bottom: 20px;
+}
+.salaris h6{
+    margin-bottom: 10px;
+}
+.salaris h5{
+    margin-bottom: 15px;
+}
+.Companies{
+    padding: 30px 20px;
+}
+.Companies .rt{
+    top: 60px;
+}
+.Companies a{margin-bottom: 0;}
+.Companies p{margin-left: 50px;}
+.cmp_cont h5{
+    margin-bottom: 25px;
+}
+.cmp_cont h5 p{
+    font-size: 12px;
+}
+
+.job_pg .page-item .page-link{
+    font-size: 12px;
+    margin: 0 15px;
+}
+.Your_resume{
+    margin-top: 60px;
+    padding: 40px 0 40px;
+}
+.resume{
+    margin-top: 120px;
+}
+.Resume{
+    width: 95%;
+}
+.resume_left{
+    width: 40%;
+    margin-right: 50px;
+}
+.sec_title span{
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+.sec_title h1{
+    line-height: 45px;
+    margin-bottom: 20px;
+}
+.sec_title p{
+    margin-bottom: 45px;
+}
+.sec_title a{
+    font-size: 11px;
+    padding: 12px 28px;
+}
+.faq_right ul li a{
+    font-size: 13px;
+}
+.faq_right ul li{
+    padding: 15px;
+}
+footer{
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.f_list ul li h6{
+    margin-bottom: 18px;
+}
+.f_list ul li a{
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+.f_right ul li{
+    margin: 0 3px;
+}
+.f_right ul li a i{
+    font-size: 1rem;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+.footer_bottom p{
+    font-size: 10px;
+    padding-bottom: 0px;
+}
+
+
+
+hr{
+    margin: 15px 0;
+}
+.p_100{
+    padding: 65px 0;
+}
+h1 {
+    font-size: 35px;
+}
+h2 {
+    font-size: 28px;
+}
+h3 {
+    font-size: 23px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 12px;
+}
+h6 {
+    font-size: 12px;
+}
+.thm_btn{
+    font-size: 15px;
+    padding: 10px 20px;
+}
+p{
+    font-size: 12px;
+}
+.mb_50{
+    margin-bottom: 30px;
+}
+
+
+}
+
+ 
+/* Tablet desktop :768px. ===========================================*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+    #mein_menu{display: none;}
+    #mein_menu ul li a{font-size: 12px;margin: 0 10px;}
+    .hero_left{
+        margin-top: 200px;
+    }
+    .reg_btn a{
+        font-size: 13px;
+        padding: 10px 22px;
+    }
+    .job_select a{margin-left: 15px;font-size: 13px;}
+    .hero_side_bg{
+        width: 90%;
+        left: -108%;
+        top: 356px;
+    }
+    .hero_side_bg #img1{width: 90%;top: -12rem;}
+    .bg_color:before{
+        width: 100%;
+    }
+    .jobs.bg_color::before{
+        top: 49%;
+    }
+    section.jobs{
+        margin-top: -37.5rem;
+    }
+    .text_slider{
+        width: 93%;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .resume_right img{
+        width: 90%;
+    }
+    .hero_left h1{
+        font-size: 35px;
+        line-height: 1.3;
+        margin-bottom: 30px;
+        width: 365px;
+    }   
+    
+    .job_finding{
+        height: 55px;
+        margin-bottom: 30px;
+    }
+    .job_finding input{
+    width: 30%;
+    }        
+    .job_finding input::placeholder{font-size: 11px;}        
+    .hero_left p{
+        width: 360px;
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .job_title h3{
+        font-size: 20px;
+    }
+    .singel_text a{
+        font-size: 14px;
+    }
+    .text_slider .owl-nav button.owl-prev{}
+    
+    .text_slider .owl-nav button.owl-next{
+        right: -27px;
+    }
+    .salaris{
+        padding: 25px;
+    }
+    .rt{
+        width: 30px;
+        height: 30px;
+    }
+    .rt span{
+        font-size: 12px;
+        line-height: 30px;
+    }
+    .j_box a{
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+    .j_box a:before{
+        width: 40px;
+        height: 40px;
+        left: 10px;
+    }
+    .j_box a img{
+        width: 20px;
+        margin-right: 20px;
+    }
+    .j_box p{
+        font-size: 10px;
+    }
+    .salaris img{
+        margin-bottom: 20px;
+    }
+    .salaris h6{
+        margin-bottom: 10px;
+    }
+    .salaris h5{
+        margin-bottom: 15px;
+    }
+    .Companies{
+        padding: 30px 20px;
+    }
+    .Companies .rt{
+        top: 60px;
+    }
+    .Companies a{margin-bottom: 0;}
+    .Companies p{margin-left: 50px;}
+    .cmp_cont h5{
+        margin-bottom: 25px;
+    }
+    .cmp_cont h5 p{
+        font-size: 12px;
+    }
+    
+    .job_pg .page-item .page-link{
+        font-size: 12px;
+        margin: 0 10px;
+    }
+    .Your_resume{
+        margin-top: 60px;
+        padding: 40px 0 40px;
+    }
+    .resume{
+        margin-top: 30px;
+    }
+    .rr{}
+.Resume{
+    width: 95%;
+}
+.resume_left{
+    width: 45%;
+}
+    .sec_title span{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .feature{
+    margin-top: 0;
+}
+    .o_chat{
+    margin-top: 0px;
+}
+.o_chat_right {
+    width: 100%;
+}
+
+.o_chat_right img {
+    width: 100%;
+}
+    .sec_title h1{
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .sec_title p{
+        margin-bottom: 30px;
+    }
+    .sec_title a{
+        font-size: 11px;
+        padding: 12px 28px;
+    }
+    .faq_right ul li a{
+        font-size: 13px;
+    }
+    .faq_right ul li{
+        padding: 15px;
+    }
+    footer{
+        padding-top: 50px;
+        margin-bottom: 10px;
+    }
+    .f_list ul li h6{
+        margin-bottom: 18px;
+    }
+    .f_list ul li a{
+        font-size: 12px;
+        margin-bottom: 12px;
+    }
+    .f_right{
+    margin: 30px 0 10px;
+}
+    .f_right ul li{
+        margin: 0 3px;
+    }
+    .f_right ul li a i{
+        font-size: 1rem;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .footer_bottom p{
+        font-size: 10px;
+        padding-bottom: 0px;
+    }
+    
+    
+    
+    hr{
+        margin: 15px 0;
+    }
+    .p_100{
+        padding: 50px 0;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h3 {
+        font-size: 23px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 12px;
+    }
+    h6 {
+        font-size: 12px;
+    }
+    .thm_btn{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .mb_50{
+        margin-bottom: 30px;
+    }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    #mein_menu{display: none;}
+    #mein_menu ul li a{font-size: 12px;margin: 0 10px;}
+    .hero_left{
+        margin-top: 150px;
+    }
+    .reg_btn a{
+        font-size: 13px;
+        padding: 10px 22px;
+    }
+    .reg_btn{
+    display: none;
+}
+    .job_select a{margin-left: 15px;font-size: 13px;}
+    .hero_side_bg{
+    display: none;
+    }
+    .hero_side_bg #img1{width: 90%;top: -12rem;}
+    .bg_color:before{
+        width: 100%;
+    }
+    .jobs.bg_color::before{
+        top: 49%;
+    }
+    section.jobs{
+        margin-top: -37.5rem;
+    }
+    .text_slider{
+        width: 70%;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .resume_right img{
+        width: 100%;
+        margin: 0;
+    }
+    .hero_left h1{
+        font-size: 27px;
+        line-height: 1.3;
+        margin-bottom: 30px;
+        width: 300px;
+    }   
+    
+    .job_finding{
+        height: 0;
+        margin-bottom: 160px;
+        background: transparent;
+        box-shadow: none;
+        padding: 0;
+    }
+    .job_finding input{
+    width: 100%;
+    height: 45px;
+    margin-bottom: 10px;
+    } 
+    .job_finding i{
+    position: absolute;
+    transform: translate(12px, 14px);
+}       
+    .job_finding input::placeholder{font-size: 11px; padding-left:40px;}        
+    .hero_left p{
+        width: 300px;
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .src{top: 8rem;right: unset;left: 3rem;}
+    .job_title h3{
+        font-size: 20px;
+    }
+    .singel_text a{
+        font-size: 14px;
+    }
+    .text_slider .owl-nav button.owl-prev{
+    left: -33px;
+}
+    
+    .text_slider .owl-nav button.owl-next{
+        right: -40px;
+    }
+    .salaris{
+        padding: 25px;
+    }
+    .rt{
+        width: 30px;
+        height: 30px;
+    }
+    .rt span{
+        font-size: 12px;
+        line-height: 30px;
+    }
+    .j_box a{
+        font-size: 13px;
+        margin-bottom: 30px;
+    }
+    .j_box a:before{
+        width: 40px;
+        height: 40px;
+        left: 10px;
+    }
+    .j_box a img{
+        width: 20px;
+        margin-right: 20px;
+    }
+    .j_box p{
+        font-size: 10px;
+    }
+    .salaris img{
+        margin-bottom: 20px;
+    }
+    .salaris h6{
+        margin-bottom: 10px;
+    }
+    .salaris h5{
+        margin-bottom: 15px;
+    }
+    .Companies{
+        padding: 30px 20px;
+    }
+    .Companies .rt{
+        top: 60px;
+    }
+    .Companies a{margin-bottom: 0;}
+    .Companies p{margin-left: 50px;}
+    .cmp_cont h5{
+        margin-bottom: 25px;
+    }
+    .cmp_cont h5 p{
+        font-size: 12px;
+    }
+    
+    .job_pg .page-item .page-link{
+        font-size: 12px;
+        margin: 0 5px;
+    }
+    .Your_resume{
+        margin-top: 60px;
+        padding: 1px 0 40px;
+    }
+    .resume{
+        margin-top: 30px;
+    }
+    .rr{
+    width: 100%;
+}
+.Resume{
+    width: 100%;
+    display: unset;
+}
+.resume_left{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+    .sec_title span{
+        margin-bottom: 10px;
+        font-size: 10px;
+    }
+    .feature{
+    margin-top: 30px;
+}
+    .o_chat{
+    margin-top: 0px;
+}
+.o_chat_right {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.o_chat_right img {
+    width: 100%;
+}
+    .sec_title h1{
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .sec_title p{
+        margin-bottom: 30px;
+    }
+    .sec_title a{
+        font-size: 11px;
+        padding: 12px 28px;
+    }
+    .faq_right{
+    margin-top: 30px;
+}
+    .faq_right ul li a{
+        font-size: 12px;
+    }
+    .faq_right ul li{
+        padding: 15px 20px;
+    }
+    footer{
+        padding-top: 50px;
+        margin-bottom: 10px;
+    }
+    .f_list ul li h6{
+        margin-bottom: 18px;
+    }
+    .f_list ul li a{
+        font-size: 12px;
+        margin-bottom: 12px;
+    }
+    .f_right{
+    margin: 30px 0 10px;
+}
+    .f_right ul li{
+        margin: 0 3px;
+    }
+    .f_right ul li a i{
+        font-size: 1rem;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .footer_bottom p{
+        font-size: 10px;
+        padding-bottom: 0px;
+    }
+    
+    
+    
+    hr{
+        margin: 15px 0;
+    }
+    .p_100{
+        padding: 50px 0;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    h3 {
+        font-size: 23px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 12px;
+    }
+    h6 {
+        font-size: 12px;
+    }
+    .thm_btn{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .mb_50{
+        margin-bottom: 30px;
+    }
+    main, .m_width {
+        max-width: 320px;
+        margin: auto;
+    }
+    .w_50 {
+        width: 50%;
+    }
+    .f_list {
+        margin-bottom: 30px;
+    }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+main, .m_width {
+    max-width: 460px;
+    margin: auto;
+}
+
+}
